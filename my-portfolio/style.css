@@ -281,7 +281,7 @@ section {
     position:relative;
     padding-left: 2rem;
     transition: transform 0.5s;
-    width: 58em;
+    width: 55em;
 }
 
 .skills-content:hover{
